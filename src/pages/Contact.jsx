@@ -181,7 +181,7 @@ function Contact() {
 
                 </p>
                 <div class="w3l-two-buttons mt-4">
-                    <a href="#trail" class="btn btn-primary btn-style"> Try it For Free </a>
+                    <a href="contact" class="btn btn-primary btn-style"> Try it For Free </a>
                 </div>
                 <div class="main-social-footer-29 mt-5">
                     <a href="#facebook" class="facebook"><span class="fab fa-facebook-f"></span></a>
@@ -194,11 +194,10 @@ function Contact() {
 
                 <ul>
                     <h6 class="footer-title-29">Links</h6>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="blog.html"> Blog posts</a></li>
-                    <li><a href="services.html">Services</a></li>
-                    <li><a href="blog.html"> Blog posts</a></li>
-                    <li><a href="contact.html">Contact us</a></li>
+                    <li><a href="about">About Us</a></li>
+                    <li><a href="blog"> Blog posts</a></li>
+                    <li><a href="services">Services</a></li>
+                    <li><a href="contact">Contact us</a></li>
 
                 </ul>
             </div>
@@ -209,7 +208,6 @@ function Contact() {
                     <li><a href="#traning">Development</a></li>
                     <li><a href="#traning">Marketing Plans</a></li>
                     <li><a href="#marketplace">Digital Services</a></li>
-                    <li><a href="#experts">Email Marketing</a></li>
                     <li><a href="#platform">Product Selling</a></li>
                 </ul>
 
@@ -217,24 +215,18 @@ function Contact() {
             <div class="col-lg-2 col-md-6  footer-list-29 footer-4 mt-lg-0 mt-5">
                 <h6 class="footer-title-29">More Info</h6>
                 <ul>
-                    <li><a href="#seo">Offline SEO</a></li>
+                    <li><a href="#seo"> SEO</a></li>
                     <li><a href="#traning">Development</a></li>
-                    <li><a href="#hack">Growth Hacking</a></li>
-                    <li><a href="#studio">Film Studio</a></li>
                     <li><a href="#branding">Branding</a></li>
                     <li><a href="#experts">Email Marketing</a></li>
-                    <li><a href="#marketplace">Lead Generation</a></li>
+                    
                 </ul>
             </div>
             <div class="col-lg-2 col-md-6  footer-list-29 footer-4 mt-lg-0 mt-5">
                 <h6 class="footer-title-29">Support</h6>
                 <ul>
-                    <li><a href="#awards">Awards</a></li>
+                    
                     <li><a href="#secutiry">Security</a></li>
-
-                    <li><a href="#proj">Products</a></li>
-                    <li><a href="#efaq">faQ</a></li>
-                    <li><a href="#help">Help</a></li>
                     <li><a href="#mail">Mail Us</a></li>
                     <li><a href="#terms">Terms
                     </a></li>
@@ -254,7 +246,8 @@ function Contact() {
 
 
 </section>
-      
+
+
     </div>
   )
 }
